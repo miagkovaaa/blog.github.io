@@ -1,2 +1,2 @@
-# blog.github.io
+# miagkovaaa.github.io
 Just another repository 
